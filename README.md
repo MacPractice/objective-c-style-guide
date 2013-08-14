@@ -142,6 +142,14 @@ UIButton *settingsButton;
 UIButton *setBut;
 ```
 
+```objc
+UIButton *myButton;
+```
+
+```objc
+UIButton *mySettingsButton;
+```
+
 A three letter prefix (e.g. `NYT`) should always be used for class names and constants, however may be omitted for Core Data entity names. Constants should be camel-case with all words capitalized and prefixed by the related class name for clarity. 
 
 **For example:**  
